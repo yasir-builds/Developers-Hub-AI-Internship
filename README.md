@@ -7,8 +7,8 @@ This repository documents my progress during the AI/ML Engineering Internship. I
 
 ## 🛠️ Tasks & Progress
 * **Task 1: Iris Dataset Visualization** (completed)
-* **Task 2: Stock Price Prediction** (in progress)
-* **Task 3: Heart Disease Prediction** (Planned)
+* **Task 2: Stock Price Prediction** (completed)
+* **Task 3: Heart Disease Prediction** (in progress)
 
 ## 🧪 Tech Stack
 * **Language:** Python
