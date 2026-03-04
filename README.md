@@ -6,8 +6,8 @@
 This repository documents my progress during the AI/ML Engineering Internship. It includes at least 3 core tasks focused on data science and machine learning foundations.
 
 ## 🛠️ Tasks & Progress
-* **Task 1: Iris Dataset Visualization** (In Progress)
-* **Task 2: Stock Price Prediction** (Planned)
+* **Task 1: Iris Dataset Visualization** (completed)
+* **Task 2: Stock Price Prediction** (in progress)
 * **Task 3: Heart Disease Prediction** (Planned)
 
 ## 🧪 Tech Stack
