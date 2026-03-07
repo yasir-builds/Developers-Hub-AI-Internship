@@ -13,7 +13,8 @@ st.markdown("---")
 st.warning("**Disclaimer:** This is an AI-based assistant for general information only. It does not provide medical advice. Consult a professional for health concerns.")
 
 load_dotenv()
-hf_token = os.getenv("HF_TOKEN")
+hf_token = st.secrets.get("HF_TOKEN") or os.getenv("HF_TOKEN")
+
 client = InferenceClient(model="mistralai/Mistral-7B-Instruct-v0.2", token=hf_token)
 
 # Prompt Engineering - The "System" Persona
